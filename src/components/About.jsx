@@ -11,7 +11,7 @@ const About = () => {
             </h3>
           </div>
         </div>
-        <div className="max-w-[1000px] px-8 w-full grid gap-8">
+        <div className="max-w-[1000px] p-8 w-full grid gap-8">
           <p>
             I am very passionate about technology and always looking to learn
             new things and improve my skills. I am currently studying at Stevens
@@ -28,7 +28,9 @@ const About = () => {
                 <div className="flex flex-col gap-2">
                   <h4 className="font-bold">Application Reliability Intern</h4>
                   <h5 className="font-bold">Lifion By ADP</h5>
-                  <h6 className="font-bold">June 2022 - August 2022</h6>
+                  <h6 className="font-bold text-gray-500  ">
+                    June 2022 - August 2022
+                  </h6>
                 </div>
                 <p>
                   Worked on the Reliability Engineering team to develop and
@@ -43,7 +45,9 @@ const About = () => {
                 <div className="flex flex-col gap-2">
                   <h4 className="font-bold">Web Developer Intern</h4>
                   <h5 className="font-bold">Collegepond Counsellors</h5>
-                  <h6 className="font-bold">December 2020 - January 2021</h6>
+                  <h6 className="font-bold  text-gray-500 ">
+                    December 2020 - January 2021
+                  </h6>
                 </div>
                 <p>
                   Improved the user experience of the Collegepond website by

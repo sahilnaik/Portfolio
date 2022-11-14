@@ -8,13 +8,13 @@ const Home = () => {
       {/* //SECTION - Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full items-center md:items-start">
         <h3>Hi, I'm Sahil</h3>
-        <h2 className="text-5xl font-satoshi text-center md:text-left">
+        <h2 className="text-4xl font-satoshi text-center md:text-left">
           I'm an aspiring{" "}
-          <span className="text-[#Beeeff]">Software Developer </span>
-          and a <span className="text-[#Beeeff]">Computer Science</span>{" "}
+          <span className="text-[#60d5ff]">Software Developer </span>
+          and a <span className="text-[#60d5ff]">Computer Science</span>{" "}
           student. I'm passionate about building{" "}
-          <span className="text-[#Beeeff]">Web </span> and{" "}
-          <span className="text-[#Beeeff]">Mobile Apps</span>
+          <span className="text-[#60d5ff]">Web </span> and{" "}
+          <span className="text-[#60d5ff]">Mobile Apps</span>
         </h2>
         <div className="flex">
           <Link
